@@ -1,1 +1,1 @@
-# Self-Hosted Runner Registers, Bewarned
+# Self-Hosted Runner Owners, Bewarned
